@@ -1,6 +1,6 @@
 openapi: 3.0.3
 info:
-  title: environmentd
+  title: materialize
   version: 0.1.0
 paths:
   /api/sql:
